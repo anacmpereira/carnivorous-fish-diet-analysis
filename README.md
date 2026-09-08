@@ -8,6 +8,10 @@ This project compares the diet of **native and invasive carnivorous fish** throu
 
 The project demonstrates skills in data cleaning, ecological statistics, multivariate analysis, and reproducible workflows applied to environmental data science.
 
+<p align="center">
+  <img src="imagens/grafico_nmds.png" width="750">
+</p>
+
 ## Objectives
 
 - Compare the diet composition of native and invasive fish.
